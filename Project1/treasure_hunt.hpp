@@ -56,6 +56,7 @@ class TreasureHunt {
     size_t waterInvestigated = 0;
     size_t landInvestigated = 0;
     size_t timesAshore = 0;
+    size_t finalPathLength = 0;
     std::vector<Coordinate> path;
 
     static bool validTerrain(char terrain);

@@ -313,16 +313,25 @@ Coordinate TreasureHunt::parentOf(const Coordinate &child) const {
 
 void TreasureHunt::reconstructPath() {
     Coordinate current = treasure;
-    path.push_back(current);
-    while (!(current == start)) {
-        current = parentOf(current);
+    if (options.showPath) {
         path.push_back(current);
     }
-    reverse(path.begin(), path.end());
+
+    while (!(current == start)) {
+        current = parentOf(current);
+        ++finalPathLength;
+        if (options.showPath) {
+            path.push_back(current);
+        }
+    }
+
+    if (options.showPath) {
+        reverse(path.begin(), path.end());
+    }
 }
 
 size_t TreasureHunt::pathLength() const {
-    return path.empty() ? 0 : path.size() - 1;
+    return finalPathLength;
 }
 
 void TreasureHunt::printStats() const {
