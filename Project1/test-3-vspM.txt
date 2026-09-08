@@ -1,0 +1,9 @@
+# Multiple islands; an earlier island does not contain treasure.
+M
+6
+oo$...
+ooo...
+......
+..oo..
+..oo..
+.....@

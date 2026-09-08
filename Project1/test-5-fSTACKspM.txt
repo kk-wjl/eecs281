@@ -1,0 +1,10 @@
+# Branching island distinguishes First Mate stack behavior.
+M
+7
+.......
+.o$ooo.
+.ooooo.
+.oo#oo.
+.ooooo.
+.......
+...@...

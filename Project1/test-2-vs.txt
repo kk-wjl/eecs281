@@ -1,0 +1,7 @@
+# Treasure is completely unreachable.
+M
+4
+$###
+####
+....
+...@

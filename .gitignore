@@ -1,0 +1,18 @@
+# Keep this repository focused on programming projects only.
+*
+!.gitignore
+!Project0/
+!Project0/**
+!Project1/
+!Project1/**
+
+# Generated and local-only files inside project directories.
+**/.DS_Store
+**/*.o
+**/*.dSYM/
+**/*_debug
+**/*_valgrind
+**/*_profile
+Project0/project0
+Project1/hunt
+Project1/*.tar.gz

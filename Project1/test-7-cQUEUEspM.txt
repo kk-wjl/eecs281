@@ -1,0 +1,10 @@
+# Sparse list mode; all omitted locations must be water.
+L
+6
+5 5 @
+0 0 $
+0 1 o
+1 1 o
+2 1 o
+
+3 3 #

@@ -1,0 +1,8 @@
+# A boundary-following snake path.
+M
+5
+$oooo
+####o
+ooooo
+o####
+oooo@

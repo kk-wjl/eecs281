@@ -1,0 +1,11 @@
+# One narrow route with several corners.
+M
+8
+$oooo###
+####o###
+####o###
+##ooo###
+##o#####
+##oooo##
+#####o##
+#####@##

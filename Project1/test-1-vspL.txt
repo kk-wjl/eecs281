@@ -1,0 +1,5 @@
+# Treasure is immediately north of the start.
+M
+2
+.$
+.@

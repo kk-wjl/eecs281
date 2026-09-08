@@ -1,0 +1,10 @@
+# First Mate must ignore water; enclosed treasure is unreachable.
+M
+7
+.......
+.ooooo.
+.o...o.
+.o.$.o.
+.o...o.
+.ooooo.
+...@...
