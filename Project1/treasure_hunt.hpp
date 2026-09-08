@@ -64,7 +64,6 @@ class TreasureHunt {
 
     void readMapMode();
     void readListMode();
-    void locateSpecialTiles();
     Coordinate takeNext(std::deque<Coordinate> &container,
                         ContainerMode mode) const;
     bool neighbor(const Coordinate &current, char direction,

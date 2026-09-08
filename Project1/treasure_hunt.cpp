@@ -45,7 +45,12 @@ void TreasureHunt::readInput() {
         readListMode();
     }
 
-    locateSpecialTiles();
+    if (!hasTreasure) {
+        inputError("Map does not have treasure");
+    }
+    if (!hasStart) {
+        inputError("Map does not have a start location");
+    }
 }
 
 void TreasureHunt::hunt() {
@@ -143,7 +148,15 @@ void TreasureHunt::readMapMode() {
             if (!validTerrain(terrainRow[col])) {
                 inputError("Invalid terrain type");
             }
-            map[row][col].terrain = terrainRow[col];
+            const char terrain = terrainRow[col];
+            map[row][col].terrain = terrain;
+            if (terrain == '@') {
+                start = {row, col};
+                hasStart = true;
+            } else if (terrain == '$') {
+                treasure = {row, col};
+                hasTreasure = true;
+            }
         }
     }
 }
@@ -160,26 +173,13 @@ void TreasureHunt::readListMode() {
             inputError("Invalid terrain type");
         }
         map[row][col].terrain = terrain;
-    }
-}
-
-void TreasureHunt::locateSpecialTiles() {
-    for (uint32_t row = 0; row < mapSize; ++row) {
-        for (uint32_t col = 0; col < mapSize; ++col) {
-            if (map[row][col].terrain == '@') {
-                start = {row, col};
-                hasStart = true;
-            } else if (map[row][col].terrain == '$') {
-                treasure = {row, col};
-                hasTreasure = true;
-            }
+        if (terrain == '@') {
+            start = {row, col};
+            hasStart = true;
+        } else if (terrain == '$') {
+            treasure = {row, col};
+            hasTreasure = true;
         }
-    }
-    if (!hasTreasure) {
-        inputError("Map does not have treasure");
-    }
-    if (!hasStart) {
-        inputError("Map does not have a start location");
     }
 }
 
