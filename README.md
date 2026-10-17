@@ -1,4 +1,4 @@
-# About
+## About
 
 This repository contains EECS 281 coursework for 2026 fall and is shared as a reference
 for everyone taking this course at University of Michigan, Ann Arbor.
