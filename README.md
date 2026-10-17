@@ -1,7 +1,9 @@
-# EECS 281 Projects
+# About
 
 This repository contains EECS 281 coursework for 2026 fall and is shared as a reference
-for everyone.
+for everyone taking this course at University of Michigan, Ann Arbor.
+
+Go Blue! ;)
 
 ## Projects
 
