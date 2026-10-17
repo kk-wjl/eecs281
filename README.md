@@ -9,5 +9,6 @@ for everyone.
 - **Project 1:** A treasure hunt program using stack- and queue-based search.
 - **Project 2:** A stock market simulation and several priority queue
   implementations.
-- **Project 2:** Incoming.
+- **Project 3:** Incoming.
+- **Project 4:** Incoming.
 
