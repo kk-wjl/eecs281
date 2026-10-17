@@ -1,0 +1,9 @@
+The autograder will not accept your submission if it does not include
+the project identifier.
+
+Make sure that your Makefile and all of your source code files, both
+.cpp and .h/.hpp, include the project identifier below:
+
+// Project Identifier: 0E04A31E0D60C01986ACB20081C9D8722A2619B6
+
+It is not necessary to include this in your test files.

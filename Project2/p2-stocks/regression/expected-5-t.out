@@ -1,0 +1,13 @@
+Processing orders...
+---End of Day---
+Trades Completed: 13
+---Time Travelers---
+A time traveler would buy Stock 0 at time 0 for $10 and sell it at time 1 for $20
+A time traveler would buy Stock 1 at time 0 for $5 and sell it at time 2 for $20
+A time traveler would buy Stock 2 at time 0 for $10 and sell it at time 2 for $30
+A time traveler would buy Stock 3 at time 0 for $8 and sell it at time 2 for $18
+A time traveler would buy Stock 4 at time 0 for $10 and sell it at time 1 for $100
+A time traveler would buy Stock 5 at time 0 for $10 and sell it at time 0 for $30
+A time traveler would buy Stock 6 at time 0 for $5 and sell it at time 1 for $40
+A time traveler would buy Stock 7 at time 2 for $1 and sell it at time 3 for $2
+A time traveler could not make a profit on Stock 8

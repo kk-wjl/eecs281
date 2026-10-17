@@ -1,0 +1,9 @@
+COMMENT: No orders cross; all traders, including inactive and self-posting traders, remain at zero.
+MODE: TL
+NUM_TRADERS: 5
+NUM_STOCKS: 3
+0 BUY T0 S0 $5 #9
+0 SELL T0 S0 $6 #9
+1 BUY T1 S1 $10 #2
+1 SELL T2 S1 $11 #2
+2 SELL T3 S2 $100 #7

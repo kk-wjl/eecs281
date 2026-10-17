@@ -5,6 +5,8 @@
 !Project0/**
 !Project1/
 !Project1/**
+!Project2/
+!Project2/**
 
 # Generated and local-only files inside project directories.
 **/.DS_Store
@@ -16,3 +18,12 @@
 Project0/project0
 Project1/hunt
 Project1/*.tar.gz
+Project2/*.tar.gz
+Project2/p2-stocks/market
+Project2/p2-stocks/fullsubmit.tar.gz
+Project2/p2b-priority-queues/project2b
+Project2/p2b-priority-queues/test_comprehensive
+Project2/p2b-priority-queues/*.tar.gz
+Project2/**/*.tar.gz
+Project2/**/__pycache__/
+Project2/**/*.pyc

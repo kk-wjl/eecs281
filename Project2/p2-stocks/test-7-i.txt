@@ -1,0 +1,12 @@
+COMMENT: Stats cover 64-bit money, both pricing directions, self-trades, partial fills, and all stocks.
+MODE: TL
+NUM_TRADERS: 6
+NUM_STOCKS: 3
+0 SELL T0 S0 $2000000000 #2
+0 BUY T1 S0 $2000000000 #2
+1 BUY T2 S1 $100 #5
+1 SELL T2 S1 $1 #1
+2 SELL T3 S1 $50 #2
+3 SELL T4 S1 $100 #2
+4 SELL T5 S2 $7 #4
+5 BUY T0 S2 $70 #3

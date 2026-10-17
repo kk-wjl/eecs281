@@ -1,0 +1,27 @@
+Processing orders...
+Trader 2 purchased 3 shares of Stock 0 from Trader 0 for $40/share
+Trader 0 purchased 3 shares of Stock 1 from Trader 2 for $80/share
+Trader 4 purchased 5 shares of Stock 0 from Trader 0 for $40/share
+Trader 4 purchased 2 shares of Stock 0 from Trader 1 for $40/share
+Trader 0 purchased 5 shares of Stock 1 from Trader 4 for $80/share
+Trader 1 purchased 2 shares of Stock 1 from Trader 4 for $80/share
+Trader 5 purchased 3 shares of Stock 0 from Trader 1 for $40/share
+Trader 5 purchased 4 shares of Stock 0 from Trader 3 for $40/share
+Trader 1 purchased 3 shares of Stock 1 from Trader 5 for $80/share
+Trader 3 purchased 4 shares of Stock 1 from Trader 5 for $80/share
+Trader 0 purchased 2 shares of Stock 2 from Trader 1 for $100/share
+Trader 3 purchased 3 shares of Stock 2 from Trader 1 for $50/share
+Trader 3 purchased 1 shares of Stock 2 from Trader 2 for $50/share
+Trader 1 purchased 2 shares of Stock 3 from Trader 0 for $20/share
+Trader 1 purchased 3 shares of Stock 3 from Trader 3 for $90/share
+Trader 2 purchased 1 shares of Stock 3 from Trader 3 for $90/share
+Trader 0 purchased 2 shares of Stock 4 from Trader 3 for $100/share
+Trader 0 purchased 4 shares of Stock 4 from Trader 4 for $100/share
+Trader 0 purchased 5 shares of Stock 4 from Trader 2 for $200/share
+Trader 0 purchased 3 shares of Stock 4 from Trader 1 for $300/share
+Trader 0 purchased 1 shares of Stock 4 from Trader 5 for $500/share
+Trader 2 purchased 3 shares of Stock 5 from Trader 1 for $500/share
+Trader 5 purchased 4 shares of Stock 5 from Trader 1 for $300/share
+Trader 4 purchased 2 shares of Stock 5 from Trader 1 for $100/share
+---End of Day---
+Trades Completed: 24

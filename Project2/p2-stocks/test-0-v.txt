@@ -1,0 +1,18 @@
+COMMENT: Both order books enforce price priority, FIFO ties, partial fills, and earlier-order pricing.
+MODE: TL
+NUM_TRADERS: 8
+NUM_STOCKS: 5
+0 SELL T0 S0 $50 #4
+0 SELL T1 S0 $20 #2
+0 SELL T2 S0 $20 #3
+0 BUY T3 S0 $100 #6
+1 BUY T0 S1 $50 #4
+1 BUY T1 S1 $100 #2
+1 BUY T2 S1 $100 #3
+1 SELL T3 S1 $1 #6
+2 BUY T4 S2 $100 #2
+2 SELL T5 S2 $1 #2
+3 SELL T5 S3 $1 #2
+3 BUY T4 S3 $100 #2
+4 BUY T6 S4 $10 #2
+4 SELL T6 S4 $10 #1
