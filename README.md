@@ -1,8 +1,7 @@
 # EECS 281 Projects
 
-This repository contains my EECS 281 coursework and is shared as a reference
-for other students. Please follow your course's academic integrity policy and
-use the material to support your own learning.
+This repository contains EECS 281 coursework for 2026 fall and is shared as a reference
+for everyone.
 
 ## Projects
 
@@ -10,4 +9,5 @@ use the material to support your own learning.
 - **Project 1:** A treasure hunt program using stack- and queue-based search.
 - **Project 2:** A stock market simulation and several priority queue
   implementations.
+- **Project 2:** Incoming.
 
