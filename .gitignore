@@ -1,6 +1,7 @@
 # Keep this repository focused on programming projects only.
 *
 !.gitignore
+!README.md
 !Project0/
 !Project0/**
 !Project1/
