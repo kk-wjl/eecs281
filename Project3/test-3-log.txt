@@ -1,0 +1,4 @@
+00:00:00:00:61|A|Earlier one
+00:00:00:01:00|A|Later one
+00:00:00:01:00|B|Later two
+00:00:00:01:01|A|Latest one

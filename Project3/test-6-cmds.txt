@@ -1,0 +1,11 @@
+c C++
+g
+c c--
+g
+k bit state
+g
+k state bit bit
+r
+p
+s
+q

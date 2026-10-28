@@ -11,6 +11,7 @@ Go Blue! ;)
 - **Project 1:** A treasure hunt program using stack- and queue-based search.
 - **Project 2:** A stock market simulation and several priority queue
   implementations.
-- **Project 3:** Incoming.
+- **Project 3:** A log manager with indexed timestamp, category, and keyword
+  searches, plus an editable excerpt list. See [Project3/README.md](Project3/README.md).
 - **Project 4:** Incoming.
 

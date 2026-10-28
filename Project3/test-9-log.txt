@@ -1,0 +1,5 @@
+01:00:00:00:00|z|same time
+01:00:00:00:00|A|same time
+01:00:00:00:00|a|same time
+01:00:00:00:01|A|next time
+00:99:99:99:99|A|previous time

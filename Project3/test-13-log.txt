@@ -1,0 +1,5 @@
+09:00:00:00:00|DB Mgr|First query completed
+01:00:00:00:00|db mgr|Second query completed
+03:00:00:00:00|DB MGR!|Third query completed
+02:00:00:00:00|DB|Manager started
+04:00:00:00:00|DB Mgr|Fourth query completed

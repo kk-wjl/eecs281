@@ -1,0 +1,5 @@
+01:00:00:00:00|Zoo|Alpha beta
+01:00:00:00:00|apple|ALPHA beta
+01:00:00:00:00|APPLE|alpha beta
+00:99:99:99:99|Zoo|alpha gamma
+01:00:00:00:00|apple|ALPHA beta

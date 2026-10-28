@@ -1,0 +1,12 @@
+# Equal timestamps, category case ties, and duplicate log lines.
+m 01:00:00:00:00
+g
+r
+p
+s
+c ApPlE
+g
+r
+k alpha beta
+g
+q

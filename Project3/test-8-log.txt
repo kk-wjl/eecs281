@@ -1,0 +1,4 @@
+03:00:00:00:00|X|red blue
+01:00:00:00:00|X|blue green
+02:00:00:00:00|Y|red green
+04:00:00:00:00|X|red green

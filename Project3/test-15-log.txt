@@ -1,0 +1,6 @@
+05:00:00:00:00|Alpha|beta gamma delta
+01:00:00:00:00|Alpha|beta gamma
+03:00:00:00:00|Alpha|gamma delta
+02:00:00:00:00|Beta|alpha delta
+04:00:00:00:00|Gamma|alpha beta delta
+06:00:00:00:00|Alpha|beta delta gamma

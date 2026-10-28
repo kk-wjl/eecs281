@@ -1,0 +1,13 @@
+k alpha beta gamma
+g
+k gamma alpha beta
+r
+p
+k beta delta
+g
+k alpha gamma delta
+g
+k delta beta alpha gamma
+r
+p
+q

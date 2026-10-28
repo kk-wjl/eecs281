@@ -1,0 +1,13 @@
+k foo bar
+g
+k foo_bar
+g
+k foo2
+g
+k ui pane
+g
+k foobar
+g
+k bar foo foo
+g
+q

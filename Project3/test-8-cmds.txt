@@ -1,0 +1,17 @@
+k red
+g
+a 1
+r
+r
+p
+l
+g
+r
+c x
+g
+k missing
+r
+p
+k green
+g
+q

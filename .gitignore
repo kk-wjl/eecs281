@@ -8,6 +8,8 @@
 !Project1/**
 !Project2/
 !Project2/**
+!Project3/
+!Project3/**
 
 # Generated and local-only files inside project directories.
 **/.DS_Store
@@ -28,3 +30,6 @@ Project2/p2b-priority-queues/*.tar.gz
 Project2/**/*.tar.gz
 Project2/**/__pycache__/
 Project2/**/*.pyc
+Project3/logman
+Project3/actual-out.txt
+Project3/*.tar.gz
