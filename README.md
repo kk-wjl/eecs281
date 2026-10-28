@@ -10,6 +10,6 @@ use the material to support your own learning.
 - **Project 1:** A treasure hunt program using stack- and queue-based search.
 - **Project 2:** A stock market simulation and several priority queue
   implementations.
-- **Project 3:** Log Manager, a C++ program for timestamp, category, and
-  keyword searches with an editable excerpt list. [Source and tests](Project3/).
+- **Project 3:** Log manager for timestamp, category, and
+  keyword searches with an editable excerpt list.
 
