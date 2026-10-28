@@ -1,8 +1,8 @@
 # EECS 281 Projects
 
-This repository contains my EECS 281 coursework and is shared as a reference
-for other students. Please follow your course's academic integrity policy and
-use the material to support your own learning.
+This repository contains 281 coursework for 26 Fall and is shared as a reference
+for other students taking this course in University of Michigan, Ann Arbor.
+Go Blue! :)
 
 ## Projects
 
@@ -12,4 +12,4 @@ use the material to support your own learning.
   implementations.
 - **Project 3:** Log manager for timestamp, category, and
   keyword searches with an editable excerpt list.
-
+- **Project 4:** Incoming.
